@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-[Developer/Company name] built the 도넛키우기! app as a Free app. This SERVICE is provided by [Developer/Company name] at no cost and is intended for use as is.
+[MaToMi] built the 도넛키우기! app as a Free app. This SERVICE is provided by [MaToMi] at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding [my/our] policies with the collection, use, and disclosure of Personal Information if anyone decided to use [my/our] Service.
 
